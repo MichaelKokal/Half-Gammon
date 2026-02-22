@@ -1,4 +1,6 @@
 # Half-Gammon
+<img width="600" height="454" alt="image" src="https://github.com/user-attachments/assets/4e84bbe9-db58-4493-815e-296e17366ac2" />
+
 A terminal-based two-player board game built in C++ based on a simplified version of Backgammon. Players take turns rolling a die and moving checkers across a 16-space board, with full support for bumping, re-entry, and bearing off mechanics.
 Features
 
